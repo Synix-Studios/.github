@@ -1,12 +1,18 @@
-## Hi there 👋
+# SynixIA
 
-<!--
+<a href="https://discord.gg/RfBbmrmegw"><img align="right" src="https://media.discordapp.net/attachments/1008815664452087998/1013499646292807770/android-chrome-512x512.png" width=27%></a>
 
-**Here are some ideas to get you started:**
+[![Support Server Invite](https://img.shields.io/discord/923558169131749396.svg?color=7289da&label=SynixStudios&logo=discord&style=flat-square)](https://discord.gg/RfBbmrmegw)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We Are A Open-Source Community That Provides Differents And Special Codes.
+
+- Yes
+- No
+- Yes
+
+##
+
+<div align="auto" style="display: inline-block;">
+   <h3 align="auto">Resources</h1>
+    <img src="https://skillicons.dev/icons?i=git,vscode,lua,js,nodejs,html,css,py" />
+</div>
